@@ -1,0 +1,2 @@
+"Amumu", "Bel'Veth", "Ekko", "Elise", "Evelynn", "Fiddlesticks", "Gragas", "Graves", "Hecarim", "Ivern", "Jarvan IV", "Karthus", "Kayn", "Kha'Zix", "Kindred", "Lillia", "Maestro Yi", "Maokai", "Nidalee", "Nocturne", "Nunu y Willump", "Poppy", "Rammus", "Rek'Sai", "Rengar", "Sejuani", "Shaco", "Shyvana", "Skarner", "Sylas", "Trundle", "Udyr", "Vi", "Viego", "Volibear", "Warwick", "Wukong", "Xin Zhao", "Zac", "Dianna", "Lee Sin", "Zed"
+42 respuestas posibles

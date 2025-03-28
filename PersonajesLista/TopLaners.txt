@@ -1,0 +1,2 @@
+"Aatrox", "Camille", "Cho'Gat", "Darius", "Dr.Mundo", "Fiora", "Gangplank", "Garen", "Gragas", "Gwen", "Illaoi", "Jayce", "Kayle", "Kennen", "Kled", "Malphite", "Mordekaiser", "Nasus", "Olaf", "Ornn", "Pantheon", "Poppy", "Quinn", "Renekton", "Riven", "Rumble", "Sett", "Shen", "Singed", "Sion", "Tahm Kench", "Teemo", "Tryndramere", "Urgot", "Volibear", "Warwick", "Yone", "Yorick", "Akali", "Gnar", "Irelia", "Jax", "K'Sante", "Yasuo", "Jarvan IV", "Rengar", "Zac", "Vayne"
+48 respuestas posibles

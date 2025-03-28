@@ -1,0 +1,2 @@
+"Ahri", "Akshan", "Anivia", "Annie", "Aurelion Sol", "Cassiopeia", "Corki", "Ekko", "Fizz", "Galio", "Gangplank", "Katarina", "LeBlanc", "Lux", "Malzahar", "Neeko", "Orianna", "Pantheon", "Qiyana", "Rumble", "Ryze", "Sylas", "Syndra", "Taliyah", "Talon", "Twisted Fate", "Veigar", "Vex", "Vladimir", "Yone", "Ziggs", "Zoe", "Akali", "Azir", "Dianna", "Irelia", "Kassadin", "Lissandra", "Viktor", "Yasuo", "Zed", "Vel'Koz", "Xerath"
+43 respuestas posibles
